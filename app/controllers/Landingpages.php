@@ -8,7 +8,7 @@ class Landingpages extends Controller
 
     public function index()
     {
-        echo '<p3>Dit is de mvc-oop-toets homepage</p3>';
+        echo '<p3>Dit is de mvc-oop-toets</p3>';
         echo '<br></br>';
         echo '<a href="/richestpeoples/index">Ga naar Richest People</a>';
     }
